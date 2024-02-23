@@ -9,7 +9,7 @@ I love doing stuff and i often crack my head while trying to do this.. 🤔
 
 Passionate about technology and working with this for about 3 years now.
 
-"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
+"“Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable.” —John Wooden"
 
 <!--
 **nickrrs/nickrrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
