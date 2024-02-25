@@ -2,8 +2,8 @@
 
 Software Engineer.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Nickolas%20Ribeiro-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nickolasribeiro/)](https://www.linkedin.com/in/nickolasribeiro/) 
-[![Gmail Badge](https://img.shields.io/badge/-nickolasleosantos@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nickolasleosantos@gmail.com)](mailto:nickolasleosantos@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Nickolas%20Ribeiro-8A2BE2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nickolasribeiro/)](https://www.linkedin.com/in/nickolasribeiro/) 
+[![Gmail Badge](https://img.shields.io/badge/-nickolasleosantos@gmail.com-8A2BE2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nickolasleosantos@gmail.com)](mailto:nickolasleosantos@gmail.com)
 
 I love doing stuff and i often crack my head while trying to do this.. 🤔
 
